@@ -1,0 +1,4 @@
+,seed,r_tstart,r_tend,trial,match,stimulus,target,similarity,choice,rule,rule_seq_id,correct,n_categories,error,p_error,p_response,fail_shift
+0,81,0.2,0.5,1,C,Y-SQ-ONE,4,0.9999999999999967,4,C,6,1,0,0,0,0,0
+1,81,13.64,13.94,2,,B-SQ-ONE,2,0.9999999999999752,3,C,6,X,0,1,0,0,0
+2,81,94.6,94.9,3,,R-CR-TWO,1,0.9999999999999498,3,C,6,X,0,1,0,0,0
