@@ -2,6 +2,8 @@
 
 This repository contains the source code for the spiking neural model of the WCST implemented in Nengo, and published in Kajić, I. and Stewart, T.C (2021): Biologically Constrained Large-Scale Model of the Wisconsin Card Sorting Test (to appear in Proceedings of the 43th Annual Meeting of the Cognitive Science Society).
 
+This code has been tested with Python 3.8.5.
+
 ## Getting started
 
 Start by cloning this repository and installing the Python packages in `requirements.txt`:
